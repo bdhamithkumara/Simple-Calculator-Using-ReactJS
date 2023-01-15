@@ -1,3 +1,26 @@
+# Simple Calculator Using ReactJS
+
+<div align="center">
+<img src="https://i.postimg.cc/T1DZ3B5X/screencapture-localhost-3000-2023-01-15-21-00-01.png" />
+
+</div>
+</br>
+<div align="center">
+<img src="https://i.postimg.cc/xdsrxvVB/screencapture-localhost-3000-2023-01-15-21-00-41.png" />
+
+</div>
+
+<h1>Give me a 🌟 if you really like this.</h1>
+<h1>Follow me on GitHub <a href="https://github.com/bdhamithkumara">@bdhamithkumara</a></h1>
+
+
+
+## Support
+
+<a href="https://www.buymeacoffee.com/bdhamithkumara" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +91,15 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## License
+
+MIT
+
+---
+
+>
+> GitHub [@bdhamithkumara](https://github.com/bdhamithkumara) </br>
+> Twitter [@bdhamithkumara](https://twitter.com/bdhamithkumara) </br>
+> Linkedin [@bdhamithkumara](https://www.linkedin.com/in/bdhamithkumara) </br>
+> Facebook [@bdhamithkumara](https://www.facebook.com/bdhamithkumara) 
